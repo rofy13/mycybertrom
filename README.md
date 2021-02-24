@@ -42,6 +42,8 @@ OR
 username: system <br />
 password: system
 
+#note : did not work on ui elements of this project just focused on function
+
 
 
 Project completed using Html,CSS,PHP,Mysql
