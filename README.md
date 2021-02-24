@@ -42,7 +42,7 @@ OR
 username: system <br />
 password: system
 
-#note : did not work on ui elements of this project just focused on function
+# note : did not work on ui elements of this project just focused on function
 
 
 
